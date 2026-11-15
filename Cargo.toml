@@ -1,0 +1,6 @@
+[package]
+name = "genoffice-sheets"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS GenOffice Sheets — AI-assisted spreadsheet engine"
+license = "GPL-3.0-or-later"
