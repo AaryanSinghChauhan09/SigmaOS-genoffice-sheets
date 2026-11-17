@@ -3,7 +3,7 @@ name = "SigmaOS-genoffice-sheets"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "genoffice-sheets component"
+description = "genoffice sheets component"
 upstream = []
 
 [contract]
